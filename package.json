@@ -1,0 +1,31 @@
+{
+  "name": "jirengu_wheel",
+  "version": "1.0.0",
+  "description": "Test JiRenGu wheel",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.9.2",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.2.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laneno/JiRenGu_Wheel.git"
+  },
+  "keywords": [
+    "vue",
+    "jirengu"
+  ],
+  "author": "Lann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Laneno/JiRenGu_Wheel/issues"
+  },
+  "homepage": "https://github.com/Laneno/JiRenGu_Wheel#readme"
+}
